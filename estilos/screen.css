@@ -5,9 +5,10 @@
         background-image: linear-gradient(to top, rgb(105, 105, 105),rgb(29, 29, 29));
     }
 
-/*background-image: linear-gradient(to top, rgb(105, 105, 105),rgb(29, 29, 29));*/
+
    section#login{
     width: 80vw;
+    height: 90vh;
     
    }
    section#login>div#imagem{
